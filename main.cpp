@@ -1,5 +1,4 @@
 /*
-	17/04/2019, at 11:40 AM.
 	This code should work.
 	Compile it with Dev-Cpp, or VisualStudio (any version).
 	
